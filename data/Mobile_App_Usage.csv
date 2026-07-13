@@ -1,0 +1,7 @@
+User_ID,Gender,Age,Screen_Time,App_Usage_Count,Data_Used,Satisfaction,Usage_Date
+U01,Male,20,4.5,18,2.4,3,2025-01-08
+U02,Female,22,6.0,25,3.8,5,2025-01-08
+U03,Male,19,3.2,12,1.6,3,2025-02-11
+U04,Female,21,7.1,30,4.5,5,2025-02-11
+U05,Male,23,2.8,10,1.2,2,2025-03-14
+U06,Female,20,5.4,22,3.1,4,2025-03-14

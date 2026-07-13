@@ -1,0 +1,7 @@
+Student_ID,Gender,Study_Hours,Attendance,Math_Score,Science_Score,Exam_Date
+S01,Male,2.0,78,62,65,2025-01-10
+S02,Female,3.5,90,80,85,2025-01-10
+S03,Male,1.5,70,55,58,2025-02-12
+S04,Female,4.0,95,90,92,2025-02-12
+S05,Male,2.8,85,72,74,2025-03-15
+S06,Female,3.0,92,82,86,2025-03-15

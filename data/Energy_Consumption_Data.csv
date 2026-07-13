@@ -1,0 +1,7 @@
+Sector,Region,Month,Temperature,Units_Consumed,Cost,Renewable_Usage,Peak_Hours
+Residential,North,Jan,15,320,2100,22,4
+Commercial,South,Jan,24,540,3600,18,6
+Industrial,West,Feb,20,880,5900,12,8
+Residential,East,Feb,18,350,2300,25,5
+Commercial,North,Mar,28,610,4100,20,7
+Industrial,South,Mar,30,920,6200,15,9
